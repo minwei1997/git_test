@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# My
+/*.aaa
+!a2.aaa
